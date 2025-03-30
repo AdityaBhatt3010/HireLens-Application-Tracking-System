@@ -1,0 +1,8 @@
+os
+PyPDF2
+python-docx
+nltk
+scikit-learn
+pyfiglet
+termcolor
+jupyter
